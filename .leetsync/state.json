@@ -1,13 +1,14 @@
 {
   "v": 1,
-  "updatedAt": 1792541874581,
+  "updatedAt": 1792542174550,
   "devices": {
     "79f662a6-f4d0-4346-908a-7e7dfca2420b": {
-      "lastSeen": 1792541874091
+      "lastSeen": 1792542174086
     }
   },
   "problems": {},
   "achievements": {
+    "early_bird": 1792541876072,
     "night_owl": 1791484757696
   },
   "sheets": {},
